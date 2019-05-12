@@ -10,7 +10,7 @@ To recreate the entire analysis, I recommend setting up a virtual environment (d
 
 ## Relevant posts where you can find the tutorial
 
-1. Medium: [To come]
+1. Medium: https://towardsdatascience.com/python-for-finance-robo-advisor-edition-36571e0fd48e
 2. Personal blog:  https://kdboller.github.io/2019/04/06/python-for-finance-robo-advisor-edition.html
 
 ## Getting set up
